@@ -3,19 +3,10 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====14 Feb 2024======
-
-- Feb Security patch merged
-- Added UDFPS animation
-- Added affordance shorcut for AI Voice Assistant
-- Added STREAM_NOTIFICATION row
-- Added option changing face unlock method when locked in face unlock
-- Added support apply monet in icon Settings
-- Fixed external layout direction changes with expanded volume rows
-- Enabled pulsing animation for faceunlock
-- Fixed hang when dumping local cache info
-- Improve design of "VO" icon in VoLTE
-- Improved the system
+=====05 Apri 2024======
+- April Security Patch Merged
+- Removed Mi Camera because have problem front camera
+- Added gallery in header image
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/phandinhhung2001
