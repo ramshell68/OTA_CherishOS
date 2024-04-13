@@ -1,0 +1,22 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 9 Pro (lemonadep)
+Device maintainer: JYR_RC 
+
+=====13 April 2024=====
+
+- Added dolby atmos
+
+- Added multiple codecs support
+
+- Added support viperFX
+
+- Added support ksu (optional apk)
+
+- Fixed fp
+
+- Added support Bcr Call recording
+
+- April security patches (android-14.0.0_r31)
+
+- Rebased full sources

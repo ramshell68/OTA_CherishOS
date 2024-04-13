@@ -1,12 +1,12 @@
 [
-  {
-      "brand": "Xiaomi",
-      "codename": "Marble",
-      "name": "POCO F5",
+   {
+      "brand": "OnePlus",
+      "codename": "Lemonadep",
+      "name": "OnePlus 9 Pro",
       "supported_versions": [
          {
             "maintainer_name": "JYR_RC",
-            "maintainer_url": "https://t.me/JYR_RC",
+            "maintainer_url": "https://t.me/JYR_RC_lemonadep",
             "version_code": "UpsideDownCake",
             "version_name": "UpsideDownCake",
             "xda_thread": ""
