@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "JYR_RC",
+			"oem": "Oneplus",
+			"device": "Oneplus 9 pro",
+			"filename": "Cherish-OS-v5.4-20240414-0745-lemonadep-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/lemonadep/Cherish-OS-v5.4-20240413-1407-lemonadep-OFFICIAL-GApps.zip/download",
+			"timestamp":,
+			"md5": "7e42645f651053da1be56dffa0d2804b",
+			"sha256": "7e42645f651053da1be56dffa0d2804b",
+			"size": 2175827613,
+			"version": 5.4,
+			"buildtype": "Releases",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "https://sourceforge.net/projects/jyr/files/builds/firmware/Firmware-oneplus9pro_13.1.0.593.zip/download",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/jyr/files/builds/recovery_derp/recovery.zip/download",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://https://t.me/JYR_RC_lemonadep",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
