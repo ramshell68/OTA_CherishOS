@@ -2,24 +2,14 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== February 16, 2024 ======
+===== April 17, 2024 ======
 
 Changelog:
-- Update blobs to latest CN
-- Switch to N0Kernel
-- Build Lineage Health (Control Charge)
-- Disable Skia tracing by default
-- Build Minigapps
-- Enable VoNR Calls support (not test)
-- Switch HWUI rendering backend to opengl & Force OpenGL renderer
-- Update clear speaker audio using DTMF + Chirp tones
-- Disable frame rate override feature
-- Add touch profiles for gaming and benchmarking
-- Import Xiaomi TouchFeature service
-- Add Pakistan mcc configs
-- Fixed Youtube scroll lag when playing a video
-- Fixed Front Camera Recording
-- Synced with latest cherish source changes
+- Enable usage of dex2oat64
+- Set zram to 30% from entire RAM
+- Add CNE MWQEM configs and new QCRIL databases
+- Switch to DisplayFeature Color Profiles
+- Sync latest source, almost bugs fixed
 - Misc. Fixes and Improvement
 - ...
 
@@ -29,7 +19,7 @@ Note:
 - Let the ROM settle. It will be smooth after sometime.
 
 Credit: 
-- @madmax7896 for resources
+- @madmax7896 for tree bringup
 - @EmanuelCN for kernel
 
 CherishOS | Built with 💖
