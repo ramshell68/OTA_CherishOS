@@ -1,16 +1,16 @@
 {
 	"response": [
 		{
-			"maintainer": "COSMIC",
+			"maintainer": "RITESHROKX",
 			"oem": "Xiaomi",
 			"device": "Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)",
-			"filename": "Cherish-OS-v4.8-20230528-0224-miatoll-OFFICIAL-GApps.zip",
-			"download": "https://sourceforge.net/projects/cherish-os/files/device/miatoll/Cherish-OS-v4.8-20230528-0224-miatoll-OFFICIAL-GApps.zip/download",
-			"timestamp": 1685240088,
-			"md5": "e7edc25221ca9e1efbda5e5acc0bfa23",
-			"sha256": "906241c11fd7befe8d32069ae6d9ad31fc51da492df1a02bc37975811266b266",
-			"size": 1652693680,
-			"version": 4.8,
+			"filename": "Cherish-OS-v5.4-20240428-0609-miatoll-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/miatoll/Cherish-OS-v5.4-20240428-0609-miatoll-OFFICIAL-GApps.zip/download",
+			"timestamp": 1714284450,
+			"md5": "243df63a9ee896bc54b47fbadffd3a44",
+			"sha256": "9020279fbf39e0114420be0306d5d818a6039c2f20c28c175a5ba6ad32c33e57",
+			"size": 2292888024,
+			"version": 5.4,
 			"buildtype": "Active Development Releases",
 			"forum": "",
 			"gapps": "",
@@ -19,7 +19,7 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "https://paypal.me/phandinhhung2001",
-			"telegram": "https://t.me/itz_miatoll_zone404",
+			"telegram": "https://t.me/RiteshChat",
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""

@@ -1,7 +1,11 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
-Device maintainer: COSMIC
+Device maintainer: RITESHROKX
+
+===== 28th April, 2024 ===
+
+- Initial A14 Official Release
 
 ===== 9th July, 2023 ===
 
