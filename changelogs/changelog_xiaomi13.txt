@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi 13
+Device maintainer: hungphan2001 
+
+=====05 Apri 2024======
+- April Security Patch Merged
+- Removed Mi Camera because have problem front camera
+- Added gallery in header image
+
+If you like our work you can donate to us at
+Paypal:- paypal.me/phandinhhung2001

@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "hungphan2001",
+			"oem": "Xiaomi",
+			"device": "Xiaomi 13",
+			"filename": "Cherish-OS-v5.4-20240422-1233-xiaomi13-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/xiaomi13/Cherish-OS-v5.4-20240422-1233-xiaomi13-OFFICIAL-GApps.zip/download",
+			"timestamp": 1712324462,
+			"md5": "66150ac2470b480ad1b9dc7d953eb5a9",
+			"sha256": "afb5106ad07672e2053db85788ac3c8b585518bccd0d968efdf9ebe2e1e12e97",
+			"size": 2157778442,
+			"version": 5.4,
+			"buildtype": "Releases",
+			"forum": "https://t.me/cherishOS",
+            "gapps": "",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/fuxi/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/phandinhhung2001",
+			"telegram": "https://t.me/cherishos_chat",
+			"dt": "https://github.com/CherishOS-Devices/android_device_xiaomi_xiaomi13",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
