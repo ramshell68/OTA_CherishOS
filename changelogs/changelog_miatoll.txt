@@ -3,6 +3,38 @@ Build type: Monthly
 Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
 Device maintainer: RITESHROKX
 
+===== 10 May, 2024 =====
+
+- Used HintManager for HWUI
+- Removed cache on early boot
+- Removed duplicate USB props
+- Disabled per-cgroup PSI accounting
+- Restart qcrild upon boot to system
+- Set RELAX_USES_LIBRARY_CHECK to true
+- Switched to new AIDL IR service
+- Disabled ULL mode in Audio
+- Fixed 24bit audio playback
+- Removed Smart Charging nodes
+- Fixed issue with no audio output if "Google Assistant" was enabled 
+- Improvement in UI (More Smoother Animations)
+- Enabled apk fs-verity
+- Avoid delay for vblank disable from DRM
+- Stopped BT logspam
+- Updated CarrierConfig from sweetin V14.0.1.0.TKFINXM
+- Enabled editable_enhanced_4g_lte_bool globally
+- Fixed dual sim preferences getting reset
+- Fixed annonying pop-ups when Airplane mode is enabled or disabled
+- Globally enabled LTE+ icon
+- Set LTE+ threshold bandwidth to 0 (so LTE+ icon will show whenever it's available)
+- Enabled VoLTE/VoWIFI For All Indian Carriers
+- Moved miui camera sepolices to vendor
+- Improved rounded_corner_content_padding
+- Adjusted status bar padding
+- Adjusted number of notification icons on status bar
+- Added support for Spatial Audio (updated blobs from cheetah-14-AP1A.240405.002)
+- Added  Moto Dolby support
+- Added LMC-Camera v8.3_Release_1 (Temporarily)
+
 ===== 28th April, 2024 ===
 
 - Initial A14 Official Release
