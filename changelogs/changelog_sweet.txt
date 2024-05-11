@@ -1,6 +1,35 @@
 Device: Redmi Note 10 Pro
 Device maintainer: JYR_RC
 
+=====10th MAY, 2023======
+
+
+Sync Sources 10/05/2024
+
+Build Gapps And Vanilla version
+
+Ota Supported
+
+Miuicamera Included Default
+    
+Added OnePlus Dolby parts
+    
+Kprofiles
+    
+App Refresh Rate
+    
+Refresh Rate in settings
+    
+Added refresh rate toggle
+    
+Added ambient display
+    
+Haptick Feedback Settings
+    
+INSTALL CLEAN MANDATORY!!!!!!
+
+
+
 =====29th APRIL, 2023====== 
 
 CherishOS v4.7.5 - OFFICIAL | Android 13

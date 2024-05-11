@@ -1,16 +1,40 @@
 {
 	"response": [
 		{
-			"maintainer": "Hariom Harsh",
+			"maintainer": "JYR_RC",
 			"oem": "Redmi",
 			"device": "Redmi note 10 Pro",
-			"filename": "Cherish-OS-v4.7.5-20230429-1033-sweet-OFFICIAL-GApps.zip",
-			"download": "https://sourceforge.net/projects/cherish-os/files/device/sweet/Cherish-OS-v4.7.5-20230429-1033-sweet-OFFICIAL-GApps.zip/download",
-			"timestamp": 1682764138,
-			"md5": "9e2ef4cfca7539eaca35e6b4210e22f1",
-			"sha256": "9e9ed316a98859ec32bac659f40b08ec75c2bdfc2e7dfb7505a3ea4b0fe93a41",
-			"size": 1875227931,
-			"version": 4.7.5,
+			"filename": "Cherish-OS-v5.5-20240510-1117-sweet-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/sweet/Cherish-OS-v5.5-20240510-1117-sweet-OFFICIAL-GApps.zip/download",
+			"timestamp": 1715339732,
+			"md5": "b037f0a4a921b35800fb1dad30273386",
+			"sha256": "5288f1a0e25bf82e364032da8aecb77cfedb4a1b406868931f82042463f4bb1a",
+			"size": 2046647129,
+			"version": 5.5,
+			"buildtype": "Stable",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/sweet/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/JYR_RC_Builds_Sweet",
+			"dt": "https://github.com/JYRRC/device_xiaomi_sweet/tree/udc",
+			"common-dt": "",
+			"kernel": ""
+		}
+        {
+			"maintainer": "JYR_RC",
+			"oem": "Redmi",
+			"device": "Redmi note 10 Pro",
+			"filename": "Cherish-OS-v5.5-20240510-1209-sweet-OFFICIAL-Vanilla.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/sweet/Cherish-OS-v5.5-20240510-1209-sweet-OFFICIAL-Vanilla.zip/download",
+			"timestamp": 1715342837,
+			"md5": "916b234766f92681ea27a9140ddfd94b",
+			"sha256": "5c2959c2dd585a7b7bdde21ef02fee9888365d09a2103d808e182e102d27f2ae",
+			"size": 1471662682,
+			"version": 5.5,
 			"buildtype": "Stable",
 			"forum": "https://t.me/cherishOS",
                         "gapps": "",
@@ -18,11 +42,11 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "https://t.me/CherishOS_Sweet/3193",
-			"paypal": "https://www.paypal.me/phandinhhung2001",
-			"telegram": "https://t.me/CherishOS_Sweet",
-			"dt": "https://github.com/JYRRC/device_xiaomi_sweet",
-			"common-dt": "https://github.com/JYRRC/device_xiaomi_sm6150-common",
-			"kernel": "https://github.com/"
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/JYR_RC_Builds_Sweet",
+			"dt": "https://github.com/JYRRC/device_xiaomi_sweet/tree/udc",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
