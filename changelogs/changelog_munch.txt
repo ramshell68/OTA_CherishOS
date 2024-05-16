@@ -5,12 +5,9 @@ Device maintainer: HDzungx
 ===== April 17, 2024 ======
 
 Changelog:
-- Enable usage of dex2oat64
-- Set zram to 30% from entire RAM
-- Add CNE MWQEM configs and new QCRIL databases
-- Switch to DisplayFeature Color Profiles
-- Sync latest source, almost bugs fixed
-- Misc. Fixes and Improvement
+- Build with MiniGapp
+- Reduce QS pull down lag
+- Many things (i dont remember)
 - ...
 
 Note:
