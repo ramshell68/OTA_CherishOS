@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Ramshell688",
+			"oem": "Xiaomi",
+			"device": "POCO X6 5G / Redmi Note 13 Pro 5G",
+			"filename": "Cherish-OS-v5.5-20240530-1102-garnet-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/garnet/Cherish-OS-v5.5-20240530-1102-garnet-OFFICIAL-GApps.zip/download",
+			"timestamp": 1717066048,
+			"md5": "56cd12b3d8db5002e5946232dbd1f6af",
+			"sha256": "ca0330175db9718a5c2e121a2a075180b82419e7f0877f56953602d3bf8d8cbe",
+			"size": 2659930579,
+			"version": 5.5,
+			"buildtype": "Releases",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/phandinhhung2001",
+			"telegram": "https://t.me/ramsprojects",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

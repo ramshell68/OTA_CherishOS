@@ -1,0 +1,38 @@
+Highlights & Device Specific Changes:
+Device: POCO X6 5G / Redmi Note 13 Pro 5G
+Build type: Monthly
+Device maintainer: Rams (ramshell688)
+
+===== May 30, 2024 =====
+
+Changelogs:
+- Added AOSP color modes
+- Added support fast charging detection
+- Enable VoWiFi in Airplane mode
+- Fixed LTE+ not show properly
+- Fixed vibrator haptic
+- Update display blobs
+- Improve auto brightness
+- Improve speed and performance
+
+===== May 12, 2024 =====
+
+Changelogs:
+- Initial official release
+- Added MiuiCamera
+- Added Extra UDFPS Animation
+- Added burn-in protection by default
+- Fixed VoLTE for some carrier
+- Fixed issues with Airtel
+- Fixed padding issues in AOD
+- Fixed offline charging
+- Improve smooth and stability
+- If u found a bugs, take logs and report in support group
+
+Notes:
+- Gapps build
+- May, 2024 security patch
+- Use OFOX recovery (recommended)
+
+Credits:
+- @AdarshGrewal for resources
