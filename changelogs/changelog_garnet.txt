@@ -3,6 +3,15 @@ Device: POCO X6 5G / Redmi Note 13 Pro 5G
 Build type: Monthly
 Device maintainer: Rams (ramshell688)
 
+===== June 10, 2024 =====
+
+Changelog:
+- Added Moto Dolby support
+- Added support 120hz screen recorder
+- Fixed screen off FOD
+- Fixed AOD flickering
+- Improve latency and responsiveness
+
 ===== May 30, 2024 =====
 
 Changelogs:
